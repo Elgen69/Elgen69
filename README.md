@@ -9,13 +9,13 @@
 
 <br>
 
-Hi, I'm [Elgen Mar Arinasa](https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/), a Computer Science Student 👨🏻‍💻 from Philippines. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Coding stuff, I play chess ♘ and Table Tennis 🏓.
-Huge fan boy of Francine Diaz.
+Hi, I'm [Elgen Mar Arinasa](https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/), a Computer Science Student 👨🏻‍💻 from Philippines. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Coding stuff, I play chess ♘ and Table Tennis 🏓.
+Huge fanboy of Francine Diaz.
 
 <br>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
