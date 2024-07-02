@@ -9,7 +9,7 @@
 
 <br>
 
-Hi, I'm [Elgen Mar Arinasa](https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/), a Computer Science Student 👨🏻‍💻 from Philippines. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Coding stuff, I play chess ♘ and Table Tennis 🏓.
+Hi, I'm [Elgen Mar Arinasa](https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/), a Computer Science Student 👨🏻‍💻 from Philippines. I'm fond with details and I'm a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Coding stuff, I play chess ♘ and Table Tennis 🏓.
 Huge fanboy of Francine Diaz.
 
 <br>
