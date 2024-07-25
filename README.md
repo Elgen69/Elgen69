@@ -20,7 +20,7 @@ Huge fanboy of Francine Diaz.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [elgen.arinasa.business@gmail.com](mailto:elgen.arinasa.business@gmail.com);
- - 🔗 My website: [None yet](https:)
+ - 🔗 My Portfolio website: [None yet](https:)
  
  <br>
 
