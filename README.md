@@ -14,7 +14,8 @@ Huge fanboy of Francine Diaz.
 
 📚 I am currently learning Data Structures and Algorithm, Object-Oriented Programming, AI, Advanced Networking <br>
 🎓 2nd-year Computer Science student @ USC <br>
-📊 DataCamp Scholar @ GDSC-USC <br>
+📊 DataCamp Scholar @ GDSC-USC - Google Developer Student's Club University of San Carlos<br>
+📊 Coursera Scholar @ DTI - Department of Trade and Industry
 
 <h2>🏆 DataCamp </h2>
 
