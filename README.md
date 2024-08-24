@@ -12,9 +12,9 @@
 Hi, I'm [Elgen Mar Arinasa](https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/), a Computer Science Student 👨🏻‍💻 from Philippines. I'm fond with details and I'm a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Coding stuff, I play chess ♘ and Table Tennis 🏓.
 Huge fanboy of Francine Diaz.
 
-📚 I am currently learning Data Structures and Algorithm, Object-Oriented Programming, AI, Advanced Networking
-🎓 2nd-year Computer Science student @ USC
-📊 DataCamp Scholar @ GDSC-USC
+📚 I am currently learning Data Structures and Algorithm, Object-Oriented Programming, AI, Advanced Networking <br>
+🎓 2nd-year Computer Science student @ USC <br>
+📊 DataCamp Scholar @ GDSC-USC <br>
 
 <h2>🏆 DataCamp </h2>
 
