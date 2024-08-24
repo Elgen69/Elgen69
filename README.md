@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://twitter.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/" target="_blank"><img height="30" src="https://commons.wikimedia.org/wiki/File:Instagram_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/31gmzydmc7kczadnpzxijeooj6va" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -18,7 +18,7 @@ Huge fanboy of Francine Diaz.
 
 <h2>🏆 DataCamp </h2>
 
-🥇 Certified Associate Data Analyst in SQL - https://www.datacamp.com/statement-of-accomplishment/track/b6c7b3bc43dd3a146717c091be515082daa584c5?raw=1
+🥇 Certified Associate Data Analyst in SQL - https://www.datacamp.com/statement-of-accomplishment/track/b6c7b3bc43dd3a146717c091be515082daa584c5?raw=1 <br>
 🥇 Certified Data Analyst with Python - https://www.datacamp.com/statement-of-accomplishment/track/cae695e0eac67f2c32c0c4fb59034712fbf0c128?raw=1
 
 <br>
