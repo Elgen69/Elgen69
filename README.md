@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. I'm Elgen Mar Arinasa</h1>
 
 <p align="left">
 <a href="https://twitter.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,6 +11,15 @@
 
 Hi, I'm [Elgen Mar Arinasa](https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/), a Computer Science Student 👨🏻‍💻 from Philippines. I'm fond with details and I'm a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Coding stuff, I play chess ♘ and Table Tennis 🏓.
 Huge fanboy of Francine Diaz.
+
+📚 I am currently learning Data Structures and Algorithm, Object-Oriented Programming, AI, Advanced Networking
+🎓 2nd-year Computer Science student @ USC
+📊 DataCamp Scholar @ GDSC-USC
+
+<h2>🏆 DataCamp </h2>
+
+🥇 Certified Associate Data Analyst in SQL - https://www.datacamp.com/statement-of-accomplishment/track/b6c7b3bc43dd3a146717c091be515082daa584c5?raw=1
+🥇 Certified Data Analyst with Python - https://www.datacamp.com/statement-of-accomplishment/track/cae695e0eac67f2c32c0c4fb59034712fbf0c128?raw=1
 
 <br>
 
