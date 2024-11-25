@@ -88,10 +88,10 @@ Huge fanboy of Francine Diaz.
 </br>
 
 <a href="https://github.com/Elgen69/countdown-timer" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=USC-Enrolling-Queue-System---TBD&theme=dracula" />
+  <img align="center" src="https://github.com/Elgen69/Contact-List-With-Express-Project&theme=dracula" />
 </a>
 <a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=C-Programming-2&theme=dracula" />
+ <img align="center" src="https://github.com/Elgen69/countdown-timer&theme=dracula" />
 </a>
 <div align="center">
 
