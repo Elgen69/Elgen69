@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://twitter.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/elgen-mar-arinasa-905b8327a/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/" target="_blank"><img height="30" src="https://commons.wikimedia.org/wiki/File:Instagram_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/elgenmar/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/31gmzydmc7kczadnpzxijeooj6va" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -72,17 +72,17 @@ Huge fanboy of Francine Diaz.
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.codewars.com/users/">
-    <img src="" alt="codewars" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Elgen69&show_icons=true&theme=gotham" alt="Elgen69" />
-
+  <summary>📈 My GitHub Stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Elgen69&show_icons=true&theme=gotham" alt="Elgen69" />
+  </p>
 </details>
 
 </br>
@@ -98,6 +98,6 @@ Huge fanboy of Francine Diaz.
 <p align="center">A countdown timer application built using React and Vite. It features a simple user interface and allows you to set and track countdowns with ease.</p>
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
+  <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
+
