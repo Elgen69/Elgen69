@@ -90,9 +90,13 @@ Huge fanboy of Francine Diaz.
 <a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula" />
 </a>
+<p align="center">A contact list application built using Express.js and Node.js. It allows users to manage contacts with a simple and intuitive interface.</p>
+
 <a href="https://github.com/Elgen69/Countdown-Timer-With-React-Vite" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Countdown-Timer-With-React-Vite&theme=dracula" />
 </a>
+<p align="center">A countdown timer application built using React and Vite. It features a simple user interface and allows you to set and track countdowns with ease.</p>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
