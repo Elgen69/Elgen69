@@ -64,7 +64,7 @@ Huge fanboy of Francine Diaz.
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codingame.com/profile/4f85742a12433267f070f10ac99d164f5737536">
-    <img src="https://brandfetch.com/codingame.com?view=library&library=default&collection=logos&asset=id27TVMdNg" alt="codingame" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.brandfetch.io/idIfiwZMnL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="codingame" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/https://leetcode.com/u/subaruelgenkun/">
