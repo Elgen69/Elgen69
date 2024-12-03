@@ -63,9 +63,10 @@ Huge fanboy of Francine Diaz.
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.codingame.com/profile/4f85742a12433267f070f10ac99d164f5737536">
-    <img src="https://cdn.brandfetch.io/idIfiwZMnL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="codingame" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.codingame.com/profile/4f85742a12433267f070f10ac99d164f5737536">
+    <img src="https://cdn.brandfetch.io/idIfiwZMnL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="codingame" style="vertical-align:top; margin:4px; border: 2px solid white; width: 138px; height: 32px;">
+</a>&nbsp;&nbsp;&nbsp;
+
   
   <a href="https://leetcode.com/https://leetcode.com/u/subaruelgenkun/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
