@@ -9,12 +9,22 @@
 
 <br>
 
-Hi, I'm [Elgen Arinasa](https://www.facebook.com/retardenism), a Computer Science Student 👨🏻‍💻 from Philippines. I'm fond with details and I'm a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Coding stuff, I play chess ♘, Table Tennis 🏓 and I greatly love to ⛸️ Ice skate. Also a huge fanboy of Francine Diaz.
+<h1>Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Computer Science Student 👨🏻‍💻 from the Philippines.</h1>
 
-📚 I am currently learning Algorithms and Complexities, Data Analytics, AI, and Mobile Development <br>
-🎓 2nd-year Computer Science student @ USC <br>
-📊 DataCamp Scholar @ GDSC-USC - Google Developer Student's Club University of San Carlos<br>
-📊 Coursera Scholar @ DTI x GCC  - Department of Trade and Industry & Google
+<p>
+  I have a keen eye for detail and a growing passion for data science, analytics, and machine learning. I am always eager to take on new challenges in these areas and aim to build impactful solutions. Aside from coding, I enjoy playing chess ♘, Table Tennis 🏓, and Ice skating ⛸️.
+</p>
+
+<p>
+  📚 I am currently learning Algorithms and Complexities, Data Analytics, AI, and Mobile Development.<br>
+  🎓 2nd-year Computer Science student @ University of San Carlos<br>
+  📊 DataCamp Scholar @ GDSC-USC - Google Developer Student's Club, University of San Carlos<br>
+  📊 Coursera Scholar @ DTI x GCC - Department of Trade and Industry & Google<br>
+</p>
+
+<p>
+  💻 <strong>Currently learning for Thesis 1 Proposal:</strong> YOLOv11, Ensemble Stacking of CNNs, and Grad-CAM for Automated Malaria Detection.
+</p>
 
 <h2>🏆 DataCamp </h2>
 
