@@ -10,8 +10,8 @@
 <br>
 Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Computer Science Student 👨🏻‍💻 from the Philippines. I have a keen eye for detail and a growing passion for data science, analytics, and machine learning. I am always eager to take on new challenges in these areas and aim to build impactful solutions. Aside from coding, I enjoy playing chess ♘, Table Tennis 🏓, and Ice skating ⛸️.<br>
 
+<p>&nbsp;</p>
 
-<p>
   📚 I am currently learning Algorithms and Complexities, Data Analytics, AI, and Mobile Development.<br>
   🎓 2nd-year Computer Science student @ University of San Carlos<br>
   📊 DataCamp Scholar @ GDSC-USC - Google Developer Student's Club, University of San Carlos<br>
