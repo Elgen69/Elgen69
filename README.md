@@ -187,8 +187,6 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Comp
   </tr>
 </table>
 
-
-
 <div align="center">
   <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
