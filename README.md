@@ -121,31 +121,51 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Comp
 
 </br>
 
-<!-- Flu vs COVID-19 Trends (2020–2024) -->
-<a href="https://github.com/Elgen69/Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey&theme=dracula" />
-</a>
-<p align="center">
-  Comparative time-series analysis of influenza vs. COVID-19 incidence in New Jersey (2020–2024), with Python-based ETL, statistical modeling, and publication-quality visualizations.
-</p>
+<!-- First row: Flu vs COVID-19 & CiviClick -->
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-bottom: 2rem;">
+  <div style="flex: 1 1 300px; max-width: 400px;">
+    <a href="https://github.com/Elgen69/Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey&theme=dracula" 
+           alt="Flu vs COVID-19 Trends 2020–2024" style="width:100%;"/>
+    </a>
+    <p style="text-align:center; margin-top:0.5rem;">
+      Comparative time-series analysis of influenza vs. COVID-19 incidence in New Jersey (2020–2024), with Python-based ETL, statistical modeling, and publication-quality visualizations.
+    </p>
+  </div>
 
-<!-- CiviClick – USC Campus Map Android App -->
-<a href="https://github.com/Elgen69/civiclick-usc-campus-map-androidapp" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=civiclick-usc-campus-map-androidapp&theme=dracula" />
-</a>
-<p align="center">
-  Mobile-first campus navigation for University of San Carlos – Talamban Campus, offering offline maps, animated route guidance, and building-level floor navigation using Kotlin & Android SDK.
-</p>
+  <div style="flex: 1 1 300px; max-width: 400px;">
+    <a href="https://github.com/Elgen69/civiclick-usc-campus-map-androidapp" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=civiclick-usc-campus-map-androidapp&theme=dracula" 
+           alt="CiviClick USC Campus Map" style="width:100%;"/>
+    </a>
+    <p style="text-align:center; margin-top:0.5rem;">
+      Mobile-first campus navigation for University of San Carlos – Talamban Campus, offering offline maps, animated route guidance, and building-level floor navigation using Kotlin & Android SDK.
+    </p>
+  </div>
+</div>
 
-<a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula" />
-</a>
-<p align="center">A contact list application built using Express.js and Node.js. It allows users to manage contacts with a simple and intuitive interface.</p>
+<!-- Second row: Contact List & Countdown Timer -->
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <div style="flex: 1 1 300px; max-width: 400px;">
+    <a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula" 
+           alt="Contact List With Express Project" style="width:100%;"/>
+    </a>
+    <p style="text-align:center; margin-top:0.5rem;">
+      A contact list application built using Express.js and Node.js. It allows users to manage contacts with a simple and intuitive interface.
+    </p>
+  </div>
 
-<a href="https://github.com/Elgen69/Countdown-Timer-With-React-Vite" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Countdown-Timer-With-React-Vite&theme=dracula" />
-</a>
-<p align="center">A countdown timer application built using React and Vite. It features a simple user interface and allows you to set and track countdowns with ease.</p>
+  <div style="flex: 1 1 300px; max-width: 400px;">
+    <a href="https://github.com/Elgen69/Countdown-Timer-With-React-Vite" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Countdown-Timer-With-React-Vite&theme=dracula" 
+           alt="Countdown Timer With React Vite" style="width:100%;"/>
+    </a>
+    <p style="text-align:center; margin-top:0.5rem;">
+      A countdown timer application built using React and Vite. It features a simple user interface and allows you to set and track countdowns with ease.
+    </p>
+  </div>
+</div>
 
 <div align="center">
   <h3>Show some ❤️ by starring some of the repositories!</h3>
