@@ -1,11 +1,25 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. I'm Elgen Arinasa</h1>
 
-<p align="left">
-<a href="https://twitter.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/retardenism" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/elgenmar/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/31gmzydmc7kczadnpzxijeooj6va" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<!-- Social links, left-aligned with uniform 24×24px icons -->
+<div align="left" style="display: flex; align-items: center; gap: 12px; margin-top: 1rem;">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png"
+         alt="Twitter" width="24" height="24">
+  </a>
+  <a href="https://www.facebook.com/retardenism" target="_blank">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png"
+         alt="Facebook" width="24" height="24">
+  </a>
+  <a href="https://www.instagram.com/elgenmar/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png"
+         alt="Instagram" width="24" height="24">
+  </a>
+  <a href="https://open.spotify.com/user/31gmzydmc7kczadnpzxijeooj6va" target="_blank">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png"
+         alt="Spotify" width="24" height="24">
+  </a>
+</div>
+
 
 <br>
 Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Computer Science Student 👨🏻‍💻 from the Philippines. I have a keen eye for detail and a growing passion for data science, analytics, and machine learning. I am always eager to take on new challenges in these areas and aim to build impactful solutions. Aside from coding, I enjoy playing chess ♘, Table Tennis 🏓, and Ice skating ⛸️.<br>
