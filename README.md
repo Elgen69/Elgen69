@@ -93,6 +93,22 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Comp
 
 </br>
 
+<!-- Flu vs COVID-19 Trends (2020–2024) -->
+<a href="https://github.com/Elgen69/Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey&theme=dracula" />
+</a>
+<p align="center">
+  Comparative time-series analysis of influenza vs. COVID-19 incidence in New Jersey (2020–2024), with Python-based ETL, statistical modeling, and publication-quality visualizations.
+</p>
+
+<!-- CiviClick – USC Campus Map Android App -->
+<a href="https://github.com/Elgen69/civiclick-usc-campus-map-androidapp" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=civiclick-usc-campus-map-androidapp&theme=dracula" />
+</a>
+<p align="center">
+  Mobile-first campus navigation for University of San Carlos – Talamban Campus, offering offline maps, animated route guidance, and building-level floor navigation using Kotlin & Android SDK.
+</p>
+
 <a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula" />
 </a>
