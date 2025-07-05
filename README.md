@@ -121,51 +121,50 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Comp
 
 </br>
 
-<!-- First row: Flu vs COVID-19 & CiviClick -->
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-bottom: 2rem;">
-  <div style="flex: 1 1 300px; max-width: 400px;">
-    <a href="https://github.com/Elgen69/Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey&theme=dracula" 
-           alt="Flu vs COVID-19 Trends 2020–2024" style="width:100%;"/>
-    </a>
-    <p style="text-align:center; margin-top:0.5rem;">
-      Comparative time-series analysis of influenza vs. COVID-19 incidence in New Jersey (2020–2024), with Python-based ETL, statistical modeling, and publication-quality visualizations.
-    </p>
-  </div>
+<!-- Projects in a 2×2 table, each card forced to 280px wide -->
+<table align="center" cellpadding="0" cellspacing="0" style="margin: 1rem auto;">
+  <tr>
+    <td align="center" valign="top" style="padding: 0.5rem;">
+      <a href="https://github.com/Elgen69/Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey&theme=dracula"
+             width="280" alt="Flu vs COVID-19 Trends">
+      </a>
+      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
+        Comparative time-series analysis of influenza vs. COVID-19 incidence in New Jersey (2020–2024), with Python-based ETL, statistical modeling, and publication-quality visualizations.
+      </p>
+    </td>
+    <td align="center" valign="top" style="padding: 0.5rem;">
+      <a href="https://github.com/Elgen69/civiclick-usc-campus-map-androidapp" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=civiclick-usc-campus-map-androidapp&theme=dracula"
+             width="280" alt="CiviClick Campus Map">
+      </a>
+      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
+        Mobile-first campus navigation for University of San Carlos – Talamban Campus, offering offline maps, animated route guidance, and building-level floor navigation using Kotlin & Android SDK.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 0.5rem;">
+      <a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula"
+             width="280" alt="Contact List Express">
+      </a>
+      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
+        A contact list application built using Express.js and Node.js. Manage contacts with add/edit/delete functionality and a simple, intuitive interface.
+      </p>
+    </td>
+    <td align="center" valign="top" style="padding: 0.5rem;">
+      <a href="https://github.com/Elgen69/Countdown-Timer-With-React-Vite" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Countdown-Timer-With-React-Vite&theme=dracula"
+             width="280" alt="Countdown Timer React Vite">
+      </a>
+      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
+        A countdown timer application built with React and Vite. Set custom timers in hours, minutes, and seconds, and enjoy a clean user interface.
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <div style="flex: 1 1 300px; max-width: 400px;">
-    <a href="https://github.com/Elgen69/civiclick-usc-campus-map-androidapp" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=civiclick-usc-campus-map-androidapp&theme=dracula" 
-           alt="CiviClick USC Campus Map" style="width:100%;"/>
-    </a>
-    <p style="text-align:center; margin-top:0.5rem;">
-      Mobile-first campus navigation for University of San Carlos – Talamban Campus, offering offline maps, animated route guidance, and building-level floor navigation using Kotlin & Android SDK.
-    </p>
-  </div>
-</div>
-
-<!-- Second row: Contact List & Countdown Timer -->
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  <div style="flex: 1 1 300px; max-width: 400px;">
-    <a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula" 
-           alt="Contact List With Express Project" style="width:100%;"/>
-    </a>
-    <p style="text-align:center; margin-top:0.5rem;">
-      A contact list application built using Express.js and Node.js. It allows users to manage contacts with a simple and intuitive interface.
-    </p>
-  </div>
-
-  <div style="flex: 1 1 300px; max-width: 400px;">
-    <a href="https://github.com/Elgen69/Countdown-Timer-With-React-Vite" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Countdown-Timer-With-React-Vite&theme=dracula" 
-           alt="Countdown Timer With React Vite" style="width:100%;"/>
-    </a>
-    <p style="text-align:center; margin-top:0.5rem;">
-      A countdown timer application built using React and Vite. It features a simple user interface and allows you to set and track countdowns with ease.
-    </p>
-  </div>
-</div>
 
 <div align="center">
   <h3>Show some ❤️ by starring some of the repositories!</h3>
