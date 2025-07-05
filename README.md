@@ -37,7 +37,7 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd 
 - 🏅 Coursera Scholar @ DTI × GCC (Dept. of Trade & Industry & Google)  
 
 💻 **Thesis 1 Proposal**  
-🧪 “Automated Malaria Detection Using a Modern YOLO-Based Model and a Stacked Ensemble of CNNs with Grad-CAM Visualization”  
+🧪 “Automated Malaria Detection Using a Modern YOLO-Based Model(YOLOV11) and a Stacked Ensemble of CNNs with Grad-CAM Visualization”  
 
 
 <h2>🏆 DataCamp </h2>
