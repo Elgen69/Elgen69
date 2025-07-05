@@ -121,49 +121,72 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a Comp
 
 </br>
 
-<!-- Projects in a 2×2 table, each card forced to 280px wide -->
-<table align="center" cellpadding="0" cellspacing="0" style="margin: 1rem auto;">
+<table align="center" cellpadding="0" cellspacing="0" style="margin: 2rem auto;">
   <tr>
-    <td align="center" valign="top" style="padding: 0.5rem;">
+    <!-- Card 1 -->
+    <td align="center" valign="top" style="padding: 1rem; border: 1px solid #444; border-radius: 8px; width: 340px;">
+      <h3 style="margin: 0 0 0.5rem; font-family: Georgia, serif; font-size: 1.2rem; color: #61dafb;">
+        Flu-vs-COVID-19 Trends (2020–2024)
+      </h3>
       <a href="https://github.com/Elgen69/Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey&theme=dracula"
-             width="280" alt="Flu vs COVID-19 Trends">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Flu-vs-COVID-19-Trends-2020-2024-in-New-Jersey&theme=dracula"
+          width="320" alt="Flu vs COVID-19 Trends"/>
       </a>
-      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
-        Comparative time-series analysis of influenza vs. COVID-19 incidence in New Jersey (2020–2024), with Python-based ETL, statistical modeling, and publication-quality visualizations.
+      <p style="max-width: 320px; margin: 1rem 0 0; font-family: 'Times New Roman', serif; font-size: 0.95rem; font-style: italic; line-height: 1.3; color: #ddd;">
+        Comparative time-series analysis of influenza vs. COVID-19 incidence in New Jersey (2020–2024), featuring Python-powered ETL pipelines, rigorous statistical modeling, and publication-quality visualizations.
       </p>
     </td>
-    <td align="center" valign="top" style="padding: 0.5rem;">
+
+    <!-- Card 2 -->
+    <td align="center" valign="top" style="padding: 1rem; border: 1px solid #444; border-radius: 8px; width: 340px;">
+      <h3 style="margin: 0 0 0.5rem; font-family: Georgia, serif; font-size: 1.2rem; color: #61dafb;">
+        CiviClick – USC Campus Map
+      </h3>
       <a href="https://github.com/Elgen69/civiclick-usc-campus-map-androidapp" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=civiclick-usc-campus-map-androidapp&theme=dracula"
-             width="280" alt="CiviClick Campus Map">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=civiclick-usc-campus-map-androidapp&theme=dracula"
+          width="320" alt="CiviClick Campus Map"/>
       </a>
-      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
-        Mobile-first campus navigation for University of San Carlos – Talamban Campus, offering offline maps, animated route guidance, and building-level floor navigation using Kotlin & Android SDK.
+      <p style="max-width: 320px; margin: 1rem 0 0; font-family: 'Times New Roman', serif; font-size: 0.95rem; font-style: italic; line-height: 1.3; color: #ddd;">
+        Mobile-first navigation for the University of San Carlos – Talamban Campus. Features offline campus maps, animated route guidance, and building-level floor plans—built with Kotlin & the Android SDK.
       </p>
     </td>
   </tr>
+
   <tr>
-    <td align="center" valign="top" style="padding: 0.5rem;">
+    <!-- Card 3 -->
+    <td align="center" valign="top" style="padding: 1rem; border: 1px solid #444; border-radius: 8px; width: 340px;">
+      <h3 style="margin: 0 0 0.5rem; font-family: Georgia, serif; font-size: 1.2rem; color: #61dafb;">
+        Contact List with Express.js
+      </h3>
       <a href="https://github.com/Elgen69/Contact-List-With-Express-Project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula"
-             width="280" alt="Contact List Express">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Contact-List-With-Express-Project&theme=dracula"
+          width="320" alt="Contact List Express"/>
       </a>
-      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
-        A contact list application built using Express.js and Node.js. Manage contacts with add/edit/delete functionality and a simple, intuitive interface.
+      <p style="max-width: 320px; margin: 1rem 0 0; font-family: 'Times New Roman', serif; font-size: 0.95rem; font-style: italic; line-height: 1.3; color: #ddd;">
+        A polished contact management app using Express.js and Node.js—full CRUD, RESTful routing, and a clean, intuitive UI for seamless address book maintenance.
       </p>
     </td>
-    <td align="center" valign="top" style="padding: 0.5rem;">
+
+    <!-- Card 4 -->
+    <td align="center" valign="top" style="padding: 1rem; border: 1px solid #444; border-radius: 8px; width: 340px;">
+      <h3 style="margin: 0 0 0.5rem; font-family: Georgia, serif; font-size: 1.2rem; color: #61dafb;">
+        Countdown Timer with React & Vite
+      </h3>
       <a href="https://github.com/Elgen69/Countdown-Timer-With-React-Vite" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Countdown-Timer-With-React-Vite&theme=dracula"
-             width="280" alt="Countdown Timer React Vite">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Elgen69&repo=Countdown-Timer-With-React-Vite&theme=dracula"
+          width="320" alt="Countdown Timer React Vite"/>
       </a>
-      <p style="max-width: 280px; font-size: 0.9rem; line-height: 1.2; margin: 0.5rem 0 0;">
-        A countdown timer application built with React and Vite. Set custom timers in hours, minutes, and seconds, and enjoy a clean user interface.
+      <p style="max-width: 320px; margin: 1rem 0 0; font-family: 'Times New Roman', serif; font-size: 0.95rem; font-style: italic; line-height: 1.3; color: #ddd;">
+        A sleek, React-and-Vite countdown timer with customizable hours, minutes, and seconds—complete with an end-of-timer animation and sound.
       </p>
     </td>
   </tr>
 </table>
+
 
 
 <div align="center">
