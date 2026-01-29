@@ -36,7 +36,7 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd 
 - 🏅 DataCamp Scholar @ GDSC-USC (Google Developer Student Club)  
 - 🏅 Coursera Scholar @ DTI × GCC (Dept. of Trade & Industry & Google)  
 
-💻 **Thesis 1 Proposal**  
+💻 **Thesis Project**  
 🧪 “Automated Malaria Detection Using a Modern YOLO-Based Model(YOLOV11) and a Stacked Ensemble of CNNs with Grad-CAM Visualization”  
 
 
