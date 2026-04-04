@@ -53,7 +53,7 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [elgen.arinasa.business@gmail.com](mailto:elgen.arinasa.business@gmail.com);
- - 🔗 My Portfolio website: [Click](https:elgendev.vercel.app)
+ - 🔗 My Portfolio website: [Click](https://elgendev.vercel.app)
  
  <br>
 
