@@ -11,7 +11,7 @@
          alt="Facebook" width="24" height="24">
   </a>
   <a href="https://www.instagram.com/elgenmar/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png"
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
          alt="Instagram" width="24" height="24">
   </a>
   <a href="https://open.spotify.com/user/31gmzydmc7kczadnpzxijeooj6va" target="_blank">
@@ -90,6 +90,62 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd 
        alt="Git" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
        alt="Terminal" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/react/61DAFB"
+       alt="React" title="React" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff"
+       alt="Next.js" title="Next.js" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E"
+       alt="Node.js" title="Node.js" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/express/ffffff"
+       alt="Express" title="Express" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6"
+       alt="TypeScript" title="TypeScript" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/angular/DD0031"
+       alt="Angular" title="Angular" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+       alt="Tailwind CSS" title="Tailwind CSS" width="20" height="20">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg"
+       alt="Karma" title="Karma" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/jasmine/8A4182"
+       alt="Jasmine" title="Jasmine" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/jest/C21325"
+       alt="Jest" title="Jest" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/vitest/6E9F18"
+       alt="Vitest" title="Vitest" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E"
+       alt="Supabase" title="Supabase" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/php/777BB4"
+       alt="PHP" title="PHP" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1"
+       alt="MySQL" title="MySQL" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/vercel/ffffff"
+       alt="Vercel" title="Vercel" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/fastapi/009688"
+       alt="FastAPI" title="FastAPI" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"
+       alt="PyTorch" title="PyTorch" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/pandas/E70488"
+       alt="Pandas" title="Pandas" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/numpy/013243"
+       alt="NumPy" title="NumPy" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E"
+       alt="scikit-learn" title="scikit-learn" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8"
+       alt="OpenCV" title="OpenCV" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/jupyter/F37626"
+       alt="Jupyter" title="Jupyter" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF"
+       alt="Kotlin" title="Kotlin" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/android/3DDC84"
+       alt="Android" title="Android" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/docker/2496ED"
+       alt="Docker" title="Docker" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/claude/D97757"
+       alt="Claude" title="Claude" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2"
+       alt="Gemini" title="Gemini" width="20" height="20">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"
+       alt="Antigravity" title="Antigravity" height="20">
 </div>
 
 ---
@@ -101,7 +157,7 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd 
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codingame.com/profile/4f85742a12433267f070f10ac99d164f5737536">
-      <img src="https://cdn.brandfetch.io/idIfiwZMnL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="codingame" style="vertical-align:top; margin:4px; border: 5px solid white; border-radius: 8px; width: 138px; height: 32px;">
+      <img src="https://img.shields.io/badge/CodinGame-0d1117?style=for-the-badge&logo=codingame&logoColor=F2BB13&labelColor=0d1117" alt="codingame" style="vertical-align:top; margin:4px; height:32px;">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/https://leetcode.com/u/subaruelgenkun/">
