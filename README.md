@@ -65,31 +65,31 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd 
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin: 1rem 0;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-       alt="VS Code" width="20" height="20">
+       alt="VS Code" title="VS Code" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-       alt="JavaScript" width="20" height="20">
+       alt="JavaScript" title="JavaScript" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-       alt="Python" width="20" height="20">
+       alt="Python" title="Python" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"
-       alt="Dart" width="20" height="20">
+       alt="Dart" title="Dart" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"
-       alt="Flutter" width="20" height="20">
+       alt="Flutter" title="Flutter" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"
-       alt="C++" width="20" height="20">
+       alt="C++" title="C++" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-       alt="HTML5" width="20" height="20">
+       alt="HTML5" title="HTML5" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-       alt="CSS3" width="20" height="20">
+       alt="CSS3" title="CSS3" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-       alt="Bootstrap" width="20" height="20">
+       alt="Bootstrap" title="Bootstrap" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-       alt="Firebase" width="20" height="20">
+       alt="Firebase" title="Firebase" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"
-       alt="Flask" width="20" height="20">
+       alt="Flask" title="Flask" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-       alt="Git" width="20" height="20">
+       alt="Git" title="Git" width="20" height="20">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-       alt="Terminal" width="20" height="20">
+       alt="Terminal" title="Terminal" width="20" height="20">
   <img src="https://cdn.simpleicons.org/react/61DAFB"
        alt="React" title="React" width="20" height="20">
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff"
@@ -144,6 +144,44 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd 
        alt="Claude" title="Claude" width="20" height="20">
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2"
        alt="Gemini" title="Gemini" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00"
+       alt="Java" title="Java" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/go/00ADD8"
+       alt="Go" title="Go" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/rust/DEA584"
+       alt="Rust" title="Rust" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/r/276DC3"
+       alt="R" title="R" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/swift/F05138"
+       alt="Swift" title="Swift" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/ruby/CC342D"
+       alt="Ruby" title="Ruby" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/lua/2C2D72"
+       alt="Lua" title="Lua" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/haskell/5D4F85"
+       alt="Haskell" title="Haskell" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/scala/DC322F"
+       alt="Scala" title="Scala" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/perl/39457E"
+       alt="Perl" title="Perl" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25"
+       alt="Bash" title="Bash" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1"
+       alt="PostgreSQL" title="PostgreSQL" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/astro/BC52EE"
+       alt="Astro" title="Astro" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/vite/646CFF"
+       alt="Vite" title="Vite" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/biome/60A5FA"
+       alt="Biome" title="Biome" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3"
+       alt="ESLint" title="ESLint" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E"
+       alt="Prettier" title="Prettier" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/npm/CB3837"
+       alt="npm" title="npm" width="20" height="20">
+  <img src="https://cdn.simpleicons.org/pnpm/F69220"
+       alt="pnpm" title="pnpm" width="20" height="20">
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"
        alt="Antigravity" title="Antigravity" height="20">
 </div>
