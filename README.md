@@ -22,7 +22,10 @@
 
 
 <br>
-Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 3rd year Computer Science Student 👨🏻‍💻 from the University of San Carlos. I have a keen eye for detail and a growing passion for data science, analytics, and machine learning. I am always eager to take on new challenges in these areas and aim to build impactful solutions. Aside from coding, I enjoy playing chess ♘, Table Tennis 🏓, and Ice skating ⛸️.<br>
+Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 4th year Computer Science Student 👨🏻‍💻 from the University of San Carlos. I have a keen eye for detail and a growing passion for data science, analytics, and machine learning. I am always eager to take on new challenges in these areas and aim to build impactful solutions. Aside from coding, I enjoy playing chess ♘, Table Tennis 🏓, and Ice skating ⛸️.<br>
+
+> 🔒 **A note on my activity:** most of my work is in private repositories under NDA, so this profile shows only a fraction of what I have built. I have shipped a lot; I just can't make most of it public.
+
 
 ---
 
