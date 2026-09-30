@@ -36,6 +36,7 @@ Hi, I'm <a href="https://www.facebook.com/retardenism">Elgen Arinasa</a>, a 4th 
 - 🛠️ **Systems Analysis & Design** & **Application Development**  
 
 🎓 **Academic Highlights**  
+- 📊 Data Science Officer @ GDGOC-USC (Google Developer Groups on Campus, formerly GDSC)  
 - 🏅 DataCamp Scholar @ GDSC-USC (Google Developer Student Club)  
 - 🏅 Coursera Scholar @ DTI × GCC (Dept. of Trade & Industry & Google)  
 
